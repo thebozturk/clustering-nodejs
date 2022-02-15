@@ -1,6 +1,5 @@
 <h1>About</h1>
 <p>This repository has been created to understand the logic of clustering Node.js applications.<p>
-
 <br>
 <h3>Installation</h3>
 
